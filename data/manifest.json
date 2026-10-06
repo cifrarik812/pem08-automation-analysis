@@ -1,0 +1,35 @@
+[
+  {
+    "name": "n8n",
+    "url": "https://n8n.io/",
+    "captured_at": "2026-10-03T08:51:05.7343574+03:00",
+    "method": "Codex browser screenshot and visible DOM text",
+    "image": "n8n.jpg",
+    "image_sha256": "FC7BA13E19E8D1B9171E2E902FD94EF237F510AF7A8A3E8CE26BD46FF33D859F",
+    "text": "n8n.txt",
+    "text_sha256": "DA1535338897E5C96B1315F8AF37E241CCE8CC72DF4AB9F5699FEC6FC4F2E7D1",
+    "limitations": "Only public landing page and viewport screenshot; marketing claims not independently audited; not product reliability testing."
+  },
+  {
+    "name": "make",
+    "url": "https://www.make.com/en",
+    "captured_at": "2026-10-03T08:51:05.7455094+03:00",
+    "method": "Codex browser screenshot and visible DOM text",
+    "image": "make.jpg",
+    "image_sha256": "CC86DEA5B9D9AB0FBE231F4779B2FDEC7183F784016FD8B484516F0643A6F65A",
+    "text": "make.txt",
+    "text_sha256": "C235173323D26DE4E18F1AB9D8D2F7902D6E3FA5F87613747B1ACEB8292E8C92",
+    "limitations": "Only public landing page and viewport screenshot; marketing claims not independently audited; not product reliability testing."
+  },
+  {
+    "name": "albato",
+    "url": "https://albato.ru/",
+    "captured_at": "2026-10-03T08:51:05.7463402+03:00",
+    "method": "Codex browser screenshot and visible DOM text",
+    "image": "albato.jpg",
+    "image_sha256": "D2819216AAA55837BBA8B65155316F66060B0C3EA0A875E4B0017CEF10958FF3",
+    "text": "albato.txt",
+    "text_sha256": "16D9B723EA10DBF595AA6AA53170F8B4ABF67DFC34FB9F916EF59400FEB3F76D",
+    "limitations": "Only public landing page and viewport screenshot; marketing claims not independently audited; not product reliability testing."
+  }
+]

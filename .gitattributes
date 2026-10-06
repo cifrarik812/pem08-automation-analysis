@@ -1,0 +1,2 @@
+# Preserve source bytes so manifest SHA256 also matches exported archives.
+data/*.txt -text

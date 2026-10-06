@@ -1,0 +1,11 @@
+const fs=require('fs'),assert=require('assert');
+const code=fs.readFileSync('frontend/app.js','utf8').split('// === Event Handlers ===')[0];
+const doc={querySelectorAll:()=>[],getElementById:()=>({})};
+const ui=new Function('document',code+'\nreturn ui;')(doc);
+const a={summary:'<img src=x onerror=alert(1)>',strengths:['<script>x</script>'],automation_fit:'Применимость',design_score:null,animation_potential:'Гипотеза',limitations:['Только снимок']};
+const html=ui.renderTextAnalysis(a);
+assert(!html.includes('<img src=x'));
+assert(!html.includes('<script>'));
+assert(html.includes('Применимость'));
+assert(html.includes('Только снимок'));
+console.log('PASS: escaping and niche fields');

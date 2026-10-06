@@ -1,0 +1,251 @@
+AI Workflow Automation Platform - n8n
+In The Loop, the n8n conference: Berlin, October 14.
+Get your ticket →
+n8n.io
+Product
+Use cases
+Docs
+Community
+Enterprise
+Pricing
+206,474
+Sign in
+Get Started
+
+See llms.txt for all machine-readable content.
+
+AI agents and workflows
+you can see and control
+
+Build visually, go deep with code, connect to anything. Every step of your agents' reasoning, traceable on the canvas. Deploy on your infrastructure or ours.
+
+Get started for free
+Talk to sales
+
+AI agents and workflows for technical teams at
+
+IT Ops can
+
+On-board new employees
+
+Sec Ops can
+
+Enrich security incident tickets
+
+Dev Ops can
+
+Convert natural language into API calls
+
+Sales can
+
+Generate customer insights from reviews
+
+You can
+
+Watch this video to hear our pitch
+
+Top 50 Github. 206.5k stars. Read the source that earned them.
+
+4.7/5 stars on G2. To quote: "I can move fast and never feel boxed in."
+
+200k+ community members. This wouldn't be possible without you.
+
+Plug AI into your own data &
+over 500 integrations
+
+Use pre-built nodes for common apps. Custom API connections for everything else.
+
+Browse all integrations
+Build AI agents
+you can actually follow
+
+Connect any model. Inspect every decision. Keep humans in the loop.
+
+Build complex AI without getting boxed in
+
+Handle multi-agent setups and RAG systems. Swap cloud or offline models without rebuilding your workflows. Integrate with legacy systems and connect to anything that speaks MCP.
+
+Explore AI
+
+Update Detected
+Running Custom Unit Testing
+Update Rolled Back Automatically
+IT Team Notified of New Ticket
+Custom Unit Testing Failed
+Update Installed
+Runs where you decide
+
+Protect your data by deploying on-prem, air-gapped if you need it. Managed cloud when you don't.
+
+Deploy with Docker
+
+Access the entire source code on Github
+
+Hosted version also available
+
+Let people and logic guide AI decisions
+
+Enforce structured inputs and outputs to control the data flow to and from AI steps. Combine human-in-the-loop approvals with rule-based automation to contain AI actions. And inspect every execution: prompt, response, and what happened next.
+
+Who held meetings with SpaceX last week?
+On Wednesday, Joe updated the status to "won" in Salesforce after a Zoom call.
+On Thursday, Sue provided on-site setup and closed the ServiceNow ticket.
+Create a task in Asana...
+Code when you need it, UI when you don't
+
+Other tools limit you to either a visual building experience, or code. With n8n, you get the best of both worlds.
+
+Write JavaScript or Python anywhere in your workflow. Imagine it, then build it.
+See the inputs and outputs right next to the settings of every step. No unnecessary clicks.
+Test AI workflows with real data to improve accuracy and catch errors before your customers do.
+Move fast. Break nothing.
+
+Build with the short feedback loops that keep you in the flow.
+
+Re-run single steps, not your entire workflow
+Replay or mock data to not wait for external systems
+Avoid endless debugging clicks with the logs view
+Evaluate AI natively to optimize performance
+See full product overview
+Case Studies
+
+How Huel built an AI first company culture and saved 1,000 hours of manual work
+
+"n8n was the big unlock. Tools like ChatGPT and Claude are great, but n8n is the thing that allows you to integrate AI into your work and your processes in a safe and controlled way"
+
+Ollie Scheers
+
+Chief Technology Officer
+
+Read Case Study
+
+How n8n revolutionized threat intelligence at Vodafone and saved £2.2 Million
+
+"n8n provides SOAR capability and workflows in a low-code model, as well as the ability to code for more complex workflows and integrations. It did everything that we wanted, all in one tool"
+
+Claire Van Hinsbergh
+
+Cyber Operations Engineering Manager
+
+Read Case Study
+Enterprise-ready
+Reliable. Scalable. Secure.
+
+Deploy on your infra or ours. Push workflows to production with the DevOps experience teams trust. n8n’s security and governance features let you build, monitor, and scale agents without losing control.
+
+Explore n8n for enterprise
+Talk to sales
+Security and control
+
+Fully on-prem option, SSO SAML, and LDAP, encrypted secret stores, version control, RBAC permissions.
+
+Observability and transparency
+
+Audit logs and log streaming to your SIEM, workflow history, real-time alerts, usage dashboards
+
+Developer experience
+
+Git-based control, isolated environments, multi-user workflows, workflow diffs
+
+AI governance
+
+Human-in-the-loop, guardrails, evaluations
+
+"The idea is that everybody in the organization can use n8n to manage data retrieval or data transformation."
+
+Build complex workflows that other tools can't. I used other tools before. I got to know the N8N and I say it properly: it is better to do everything on the n8n! Congratulations on your work, you are a star!
+
+Igor Fediczko
+
+@igordisco
+
+Thank you to the n8n community. I did the beginners course and promptly took an automation WAY beyond my skill level.
+
+Robin Tindall
+
+@robm
+
+n8n is a beast for automation. self-hosting and low-code make it a dev’s dream. if you’re not automating yet, you’re working too hard.
+
+Anderoav
+
+@Anderoav
+
+n8n accelerated our development, we were able to release the solution before the rest of the market even realized what we were building.
+
+Luiza Vidal
+
+@Luiza Vidal
+
+I've said it many times. But I'll say it again. n8n is the GOAT. Anything is possible with n8n. You just need some technical knowledge + imagination. I'm actually looking to start a side project. Just to have an excuse to use n8n more 😅
+
+Maxim Poulsen
+
+@maximpoulsen
+
+n8n was the big unlock. Tools like ChatGPT and Claude are great, but n8n is the thing that allows you to integrate AI into your work and your processes in a safe and controlled way.
+
+Ollie Scheers
+
+@olliescheers
+
+It blows my mind. I was hating on no-code tools my whole life, but n8n changed everything. Made a Slack agent that can basically do everything, in half an hour.
+
+Felix Leber
+
+@felixleber
+
+I just have to say, n8n's integration with third-party services is absolutely mind-blowing. It's like having a Swiss Army knife for automation. So many tasks become a breeze, and I can quickly validate and implement my ideas without any hassle.
+
+Nanbing
+
+@1ronben
+
+Found the holy grail of automation yesterday... Yesterday I tried n8n and it blew my mind 🤯 What would've taken me 3 days to code from scratch? Done in 2 hours. The best part? If you still want to get your hands dirty with code (because let's be honest, we developers can't help ourselves 😅), you can just drop in custom code nodes. Zero restrictions.
+
+Francois Laßl
+
+@francois-laßl
+
+Anything is possible with n8n. I think @n8n_io Cloud version is great, they are doing amazing stuff and I love that everything is available to look at on Github.
+
+Jodie M
+
+@jodiem
+
+Simple enough to see.
+Powerful enough to ship.
+
+Join the teams building AI automation they can actually explain.
+
+Start building
+n8n.io
+Automate without limits
+Careers
+Hiring
+Contact
+Merch
+Press
+Legal
+In The Loop
+Oct 2026
+Case Studies
+AI agent report
+AI benchmark
+n8n alternatives
+Events
+n8n on SAP
+Partners
+Affiliate program
+Hire an expert
+Join user tests, get a gift
+Brand guidelines
+Education
+Imprint
+Security
+Privacy
+Report a vulnerability
+
+© 2026 n8n   |   All rights reserved.
+
+COOKIE SETTINGS
